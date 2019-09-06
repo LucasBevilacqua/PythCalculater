@@ -1,0 +1,75 @@
+html{
+    background-color: maroon;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body{
+    border-radius: 20px;
+    background-color: white;
+    width: 600px;
+    padding: 75px;
+    padding-bottom: 20px;
+    margin: 0 auto;
+    margin-top: 10px;
+    padding-top: 50px;
+}
+
+h1{
+    color: #808000;
+    font-family: 'Maven Pro', sans-serif;
+    margin-top: 0px;
+}
+
+h2{
+    color: maroon;
+    font-family: 'Maven Pro', sans-serif;
+}
+
+h3{
+    color: maroon;
+    font-family: 'Maven Pro', sans-serif;
+}
+
+p{
+    letter-spacing: 0.3px;
+}
+
+.CBox{
+    border-style: solid;
+    border-width: 2px;
+    border-color: lightgray;
+    background-color: rgb(235, 235, 235);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.Calculate{
+    border-style: solid;
+    border-width: 1px;
+    font-variant: small-caps;
+}
+
+.empty{
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    padding-right: 175px;
+    border-color: lightgray;
+}
+
+button{
+    background-color: #808000;
+    padding-left: 10px;
+    color: white;
+    font-size: 15px;
+    font-variant: small-caps;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    padding-top: 5px;
+}
+
+.Qcolor{
+    color: maroon;
+}
